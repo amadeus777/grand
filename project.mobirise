@@ -267,7 +267,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": true,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.7",
             "overlayColor": "#00a885",
             "columns": 4,
