@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#00a885",
         "infoColor": "#7e9b9f",
@@ -153,7 +153,7 @@
           },
           "title": "Дом престарелых<br>",
           "text": "ПО ЛУЧШИМ ЦЕНАМ В АЛМАТЫ<br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-b\" data-toolbar=\"-mbrBtnMove\">БЕСПЛАТНАЯ КОНСУЛЬТАЦИЯ</a>",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "72px"
@@ -821,11 +821,18 @@
             }
           },
           "text1": "<strong>Адрес</strong><br>Жандосова 134<br><br><br>\n<strong>Контакты</strong><br>\nEmail: support@gmail.com<br>Tel: +7 (727) 3422870<br>\nMob: +7 (777) 5236488",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Ссылки</b></span></font></p><ul><br><li>Что мы предлагаем</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Н</a>аши преимущества</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">О</a>братная связь</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><a href=\"index.html#contacts2-c\">Ссылки</a></b></span></font></p><ul><br><li><a href=\"index.html#content1-6\">Что мы предлагаем</a></li><li><a class=\"text-white\" href=\"index.html#features1-3\">Наши преимущества</a></li><li><a class=\"text-white\" href=\"index.html#form1-b\">Обратная связь</a></li></ul>",
           "_styles": {
             "P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#efefef"
             }
           }
         }
